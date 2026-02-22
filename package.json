@@ -1,0 +1,20 @@
+{
+  "name": "af_lab04",
+  "version": "1.0.0",
+  "description": "Lab 04 Git repo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DuleepaDabare/AF_Lab04.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DuleepaDabare/AF_Lab04/issues"
+  },
+  "homepage": "https://github.com/DuleepaDabare/AF_Lab04#readme"
+}
